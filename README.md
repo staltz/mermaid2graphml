@@ -5,6 +5,7 @@
 
   Convert graph data for [Mermaid](https://github.com/knsv/mermaid) into [GraphML](http://graphml.graphdrawing.org/).
 
+**WORK IN PROGRESS. BROKEN. DON'T INSTALL YET.**
 
 ## Installation
 
