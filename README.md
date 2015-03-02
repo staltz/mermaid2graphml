@@ -1,4 +1,4 @@
-# Commander.js
+# Mermaid2GraphML
 
 [![NPM Version](http://img.shields.io/npm/v/commander.svg?style=flat)](https://www.npmjs.org/package/mermaid2graphml)
 [![NPM Downloads](https://img.shields.io/npm/dm/commander.svg?style=flat)](https://www.npmjs.org/package/mermaid2graphml)
