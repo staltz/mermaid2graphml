@@ -1,0 +1,21 @@
+{
+  "name": "mermaid2graphml",
+  "version": "0.1.0",
+  "description": "Convert mermaid diagram description language to GraphML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "graphml",
+    "mermaid",
+    "diagram"
+  ],
+  "author": "Andre Staltz (http://andre.staltz.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^4.6.5",
+    "commander": "^2.6.0",
+    "immutable": "^3.6.2"
+  }
+}
