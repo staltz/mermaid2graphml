@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Convert mermaid diagram description language to GraphML",
   "main": "index.js",
+  "repository": "https://github.com/staltz/mermaid2graphml",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
